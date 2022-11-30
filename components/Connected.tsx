@@ -43,7 +43,7 @@ const Connected: FC = () => {
 
       <Button bgColor="accent" color="white" maxW="380px">
         <HStack>
-          <Text>mint buildoor</Text>
+          <Text>mint zombie</Text>
           <ArrowForwardIcon />
         </HStack>
       </Button>

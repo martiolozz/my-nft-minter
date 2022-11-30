@@ -13,8 +13,8 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Buildoors</title>
-        <meta name="The NFT Collection for Buildoors" />
+        <title>Rndm Zombies</title>
+        <meta name="A random zombie NFT collection" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

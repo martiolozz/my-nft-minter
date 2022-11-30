@@ -1,0 +1,57 @@
+{
+  "program": {
+    "candyMachine": "12Y4WijdVwfEhhqepNB8upkQ6PKcdahioi11ruzsKJ2J",
+    "candyMachineCreator": "AnC4dbZNRupgZe55kRZ6geGyf4B9NnxfRXcVvw5aA3HW",
+    "collectionMint": "3V5Zmj4Xk57uEYwiMfjuoioifB9Bvqqdm5HW4gQNV7Vg"
+  },
+  "items": {
+    "-1": {
+      "name": "Five Zombies Collection",
+      "image_hash": "4b8a3b373ac17ba34e38afbc026150e8e919574b46843aaf8e09b5020fced6fe",
+      "image_link": "https://arweave.net/oJ9dBzWdJvoPSumWHdSuRKUQcTQxtz0S0h-ZRS3vUtc?ext=jpeg",
+      "metadata_hash": "210845510b83871a8bf2fa9eb71a2d2df4cbfb2e29db8cbe62373679a2bc0f8b",
+      "metadata_link": "https://arweave.net/VqU1WnN0HQA04BzoxWNtYKoJvMndkwX4ON-XYj-CF2g",
+      "onChain": true
+    },
+    "0": {
+      "name": "Random Zombie #1",
+      "image_hash": "80296d8857637661f45ab3dcd52004009789762d3479b608c880d810c019b82b",
+      "image_link": "https://arweave.net/dBA0_OC_o7E8IUAqZfgvPbHLQZb-XmNeWCXr8y46Hqw?ext=jpeg",
+      "metadata_hash": "ff0c268348aeb2da0c9a60c5d3e3c95a5d1af7fe64a56623cee2d25269d43f96",
+      "metadata_link": "https://arweave.net/R8FHlZ_GCjyRjJAG9Osqc92yDvU_x4CLu-dxCiY6bVA",
+      "onChain": true
+    },
+    "1": {
+      "name": "Random Zombie #2",
+      "image_hash": "e8c7f317c9c82dc04504641610803fa8e93909d9d08cd025b90068180d8150e7",
+      "image_link": "https://arweave.net/G9It11orFG_jKssC-GQVeQ47L_63MNSFRWrGETbjk68?ext=jpeg",
+      "metadata_hash": "787fd47f4b6bbff4a7f708ba816300f06ee035afdffaaa0215b0af12a6e97394",
+      "metadata_link": "https://arweave.net/tGBLBcRjgvj9N6KsWDtDsTK1cZAwLOck2V1WTfQKI6o",
+      "onChain": true
+    },
+    "2": {
+      "name": "Random Zombie #3",
+      "image_hash": "fdb9d1767f1559ba33ab62214cfeb0f414e152bb6d8749496c7bec6c0b819240",
+      "image_link": "https://arweave.net/dGHi7aAO_u11lwvMxGmflO4Z8sO5HV8bojTNiUkwOBw?ext=jpeg",
+      "metadata_hash": "e2d6dd735080657e8b7713677b2e462b30aba18dae1ef8b6da6e5f085b6da8e8",
+      "metadata_link": "https://arweave.net/YIZSXiTn-HowS1g0eASqfF5ir363oKZO9-WYA-KKS9c",
+      "onChain": true
+    },
+    "3": {
+      "name": "Random Zombie #4",
+      "image_hash": "f0ce04b451e44528ad648e1c905bd33cff074b9c07227add4010d82a537c6c15",
+      "image_link": "https://arweave.net/D_0Vv5vEkc93IjsO3mwesV_VRf0HidUYtt8DdgIk6zc?ext=jpeg",
+      "metadata_hash": "dccd19c2e19a93517f2fc67b4504766c34e9652f2960d3e1fbe179dfd4587d35",
+      "metadata_link": "https://arweave.net/ew1GoXBsCsMDIL1Kx3ECB34v-96PS2W0j6KNqfJH4Kc",
+      "onChain": true
+    },
+    "4": {
+      "name": "Random Zombie #5",
+      "image_hash": "10b970d6880a95c8dcc2b23e3e9fd899b74f3b3541bb3bad52a1224eb19b7981",
+      "image_link": "https://arweave.net/rz_mEDvd5HC_zSokNogYmI_LtubD4buWGn7GERr-zM8?ext=jpeg",
+      "metadata_hash": "b9f31e7d155ac6a83fc8b2bbb0388ffdaad65f0af53fa21429f462490adf86f2",
+      "metadata_link": "https://arweave.net/u43Jep9SajFimkvTy9prLL3AMJdF5AIBeuMSrzpWN7M",
+      "onChain": true
+    }
+  }
+}

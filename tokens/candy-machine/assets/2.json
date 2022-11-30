@@ -1,0 +1,24 @@
+{
+    "name": "Random Zombie #3",
+    "symbol": "ZMB",
+    "description": "The random zombies are just five random zombie images",
+    "image": "2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "primary-color",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "designed-by",
+            "value": "stable-difussion"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "2.jpeg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}

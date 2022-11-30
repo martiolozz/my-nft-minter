@@ -1,0 +1,15 @@
+{
+    "name": "Five Zombies Collection",
+    "symbol": "ZMB",
+    "description": "Collection of 5 zombies generated w stable difussion",
+    "image": "collection.jpeg",
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "collection.jpeg",
+          "type": "image/jpeg"
+        }
+      ]
+    }
+  }
